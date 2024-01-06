@@ -1,2 +1,2 @@
 # Mental-emanations
-Algorithm Question
+Question
